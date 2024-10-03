@@ -10,8 +10,10 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ömer Faruk Kozluca");
-            Console.WriteLine("Yazılım alanında Kariyer Hedeflediğim için Patika Bootcampteyim");
+            string userinput = "42";
+            int result = 0;
+            int.TryParse(userinput, out result);
+            Console.WriteLine("Dönüsüm basarılı.Sonuc : + result ");
             Console.ReadLine();
 
         }
