@@ -2,7 +2,7 @@ Kim Milyoner Olmak İster
 Genel Bakış
 Bu program kullanıcıya maksimum 3 tane soru sorar
 
-Program hem if-else komutlarıyla hazırlanmıştır
+Program if-else komutlarıyla hazırlanmıştır
 
 Özellikler
 Kullanıcıya en fazla 3 tane soru sorar
