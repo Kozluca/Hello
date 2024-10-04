@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev2", "Odev2\Odev2.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odev3", "Odev3\Odev3.csproj", "{56392FBD-2534-44E3-8134-8A78745D956A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kim Milyoner Olmak Ister", "Kim Milyoner Olmak Ister\Kim Milyoner Olmak Ister.csproj", "{657E9B53-7D56-43C4-8B9D-00F43FCE5193}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{56392FBD-2534-44E3-8134-8A78745D956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56392FBD-2534-44E3-8134-8A78745D956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56392FBD-2534-44E3-8134-8A78745D956A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{657E9B53-7D56-43C4-8B9D-00F43FCE5193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657E9B53-7D56-43C4-8B9D-00F43FCE5193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657E9B53-7D56-43C4-8B9D-00F43FCE5193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657E9B53-7D56-43C4-8B9D-00F43FCE5193}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
